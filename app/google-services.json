@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32824657119",
+    "project_id": "easepark-database",
+    "storage_bucket": "easepark-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32824657119:android:09e933157ea1750882d56a",
+        "android_client_info": {
+          "package_name": "com.example.easepark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn97fFqgAgjQwBXPBzZgsNMh64tqnEl9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
